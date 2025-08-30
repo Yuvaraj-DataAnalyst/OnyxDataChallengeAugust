@@ -1,6 +1,6 @@
 # OnyxDataChallengeAugust
 
-# 🏋️‍♂️ 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 – Onyx Data Challenge 🚀
+# 🏋️‍♂️ 𝗙𝗶𝘁𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 – Onyx Data Challenge 
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Custom%20Measures-6A5ACD?style=for-the-badge&logo=chart-line&logoColor=white)
@@ -26,15 +26,15 @@ It provides insights that help fitness centers **boost membership retention, opt
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Hosp - Page 1.png" alt="Hosp - Page 1" width="1200"/>
+  <img src="Fit_1.png" alt="Hosp - Page 1" width="1200"/>
 </p>
 
 <p align="center">
-  <img src="Hosp - Page 2.png" alt="Hosp - Page 2" width="1200"/>
+  <img src="Fit_2.png" alt="Hosp - Page 2" width="1200"/>
 </p>
 
 <p align="center">
-  <img src="Hosp - Page 3.png" alt="Hosp - Page 1" width="1200"/>
+  <img src="Fit_3.png" alt="Hosp - Page 1" width="1200"/>
 </p>
 
 ## 🛠 Tech Stack Used
@@ -47,34 +47,6 @@ It provides insights that help fitness centers **boost membership retention, opt
 | 📉 **Visualization** | Data storytelling through visuals |
 
 ---
-
-## 📈 Key Metrics & Insights
-
-### 👥 Demographics
-- **Total Patients Admitted:** 55,500  
-- 🚹 Male: 22,200 | 🚺 Female: 27,750  
-- 🩸 Common Blood Type: **O+**  
-- 🗺️ Top Locations: **California, Texas, New York**
-
-### 🏨 Hospital Performance
-- 💰 **Total Billing:** $1.417M  
-- 💳 **Avg. Billing per Patient:** $25,539  
-- 👨‍⚕️ **Doctors:** 40,341 | **Patient/Doctor Ratio:** 1.38  
-- 🛏️ **Avg. Stay Duration:** 15.51 days  
-- 📉 **Stay Trend:** 19.4 days ⟶ 11.4 days (Jan ➡️ Dec)
-
-### 💸 Insurance & Costs
-- 🆘 **Emergency Revenue:** $465.81M  
-- 🗓️ **Elective Revenue:** $477.60M  
-- 🚨 **Urgent Revenue:** $474.01M  
-- 💼 **Insurance Coverage:** 65%  
-- 💲 **Cost Per Day:** $1,647  
-- 📈 **Revenue Peaks:** **May** & **October**  
-- ❤️ Top Conditions: Heart Disease, Liver Issues  
-- 🏥 Top Hospital Revenue: **$477.6M**
-
----
-
 ## 🧠 What I Learned
 
 This challenge enhanced my skills in:
